@@ -1,8 +1,8 @@
 # Mir Baqi Inscription – Baseline English Translation
 
-## Literal Translation
+## Refined Translation
 
-> *The builder of this mosque is Mir Baqi, from the servants of Shah Jahan.*
+> *The builder of this mosque is Mir Baqi, from among the servants of the King of the World (Babur).*[^1]
 
 ## Alternative Renderings
 
@@ -23,3 +23,5 @@
 ## Disclaimer
 
 This translation is a starting point for further analysis. It intentionally avoids interpretive choices that would predetermine the historical or architectural narrative. Subsequent contributions should propose refinements based on philological, historical, or art‑historical evidence.
+
+[^1]: **Interpretive note:** The translation “King of the World (Babur)” reflects the scholarly view that *Shah Jahan* in this inscription is not the later emperor but a generic regnal title used for Babur in early Mughal epigraphy. This reading is supported by the absence of the definite article *al‑* and by parallels from contemporary foundation inscriptions in North India, such as the 1527 mosque inscription at Panipat which refers to Babur as *Shah‑i‑Jahan*. The phrase “from among the servants of” denotes Mir Baqi’s official position within Babur’s administration, consistent with his mention in the *Bāburnāma* as a local governor (*hakim*) in Awadh.
